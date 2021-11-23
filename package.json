@@ -1,0 +1,25 @@
+{
+  "name": "base-converter",
+  "version": "0.0.1",
+  "description": "Convert between bases or generate IDs like Youtube or Bit.ly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhamed-didovic/base-converter.git"
+  },
+  "keywords": [
+    "base",
+    "converter",
+    "id",
+    "generator"
+  ],
+  "author": "Muhamed Didovic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muhamed-didovic/base-converter/issues"
+  },
+  "homepage": "https://github.com/muhamed-didovic/base-converter#readme"
+}
