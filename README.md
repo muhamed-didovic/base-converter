@@ -1,16 +1,16 @@
-# base-converter
+# base-system-converter
 Simple Module/Package for generating Random Strings
 
-[![npm](https://badgen.net/npm/v/base-converter)](https://www.npmjs.com/package/base-converter)
+[![npm](https://badgen.net/npm/v/base-system-converter)](https://www.npmjs.com/package/base-system-converter)
 
 ## Install
 ```sh
-npm install base-converter --save
+npm install base-system-converter --save
 ```
 
 ## How to use
 ```
-var BaseConverter = require('base-converter');
+var BaseConverter = require('base-system-converter');
 ```
 
 ## Usage
