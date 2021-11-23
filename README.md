@@ -14,13 +14,13 @@ var BaseConverter = require('base-system-converter');
 ```
 
 ## Usage
-This package has two methods toBase10 and toBase10:
+This package has two methods toBase() and toBase10():
 
 ```
-Convert from base 10 to another base
+//Convert value from base 10 to another base
 console.log(BaseConverter.toBase(10, 2)) // Returns 1010
 
-Convert a from a given base to base 10
+//Convert value from a given base to base 10
 console.log(BaseConverter.toBase10('1010', 2)) // Returns 10
 ```
 

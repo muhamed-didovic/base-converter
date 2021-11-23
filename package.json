@@ -1,6 +1,6 @@
 {
   "name": "base-system-converter",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Convert between bases or generate IDs like Youtube or Bit.ly",
   "main": "index.js",
   "scripts": {
